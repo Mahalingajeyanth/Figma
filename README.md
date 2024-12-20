@@ -167,7 +167,8 @@ color: black;
  ```
 
 ## OUTPUT:
-![alt text](<WhatsApp Image 2024-12-20 at 13.40.53_a4550242.jpg>)
+![Screenshot 2024-12-20 135653](https://github.com/user-attachments/assets/594fa5e0-b8ef-4cac-b081-99db678b9215)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
