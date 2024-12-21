@@ -167,7 +167,7 @@ color: black;
  ```
 
 ## OUTPUT:
-![Screenshot 2024-12-20 135653](https://github.com/user-attachments/assets/594fa5e0-b8ef-4cac-b081-99db678b9215)
+![alt text](<Screenshot 2024-12-20 135653.png>)
 
 
 ## RESULT:
